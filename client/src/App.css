@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+}
+
+.app-container {
+  width: 60%;
+  margin: auto;
+}
+
+.page-title {
+  display: block !important;
+  margin-top: 10px;
+  text-align: center;
+  font-size: 2rem;
+}
